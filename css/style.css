@@ -115,7 +115,7 @@ text-transform: capitalize;
 }
 
 .team-list {
-    background-color: #fff;
+    background-color: #FFFFFF
 }
 .team-item-title {
 font-weight: 500;
@@ -124,6 +124,9 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+}
+.team-item {
+    background-color: #FFFFFF
 }
 
 .team-text {
